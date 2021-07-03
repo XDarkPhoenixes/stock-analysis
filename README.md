@@ -66,7 +66,9 @@ As we can see, the new script is able to shorten the time of analysis by 10 fold
 ## Summary
 
 - What are the advantages or disadvantages of refactoring code?
+
 One obvious advantage of refactoring code is that by testing the refactored code, one can see whether it runs faster than the original one. When it does like in this case, refactored code would be used to provide efficient executions. One disadvantage of refactoring code is that it could be quite time-consuming and for a person who is new to coding this process could be particularly challenging. 
 
 - How do there pros and cons apply to refactoring the original script?
+
 The original script has fewer Arrays and variables in it; it is short; therefore it is easier to see the code. However, because it requires a nested for loop it takes more time to process so it is time-consuming. The refactored script has more Arrays and variables in it, therefore it is long. However, it's not only easier to understand since there is no nested for loops but also faster and easier to execute. 
